@@ -39,6 +39,8 @@ console.log("Variable bb:", bb);
 console.log("Variable cc:", cc); // null
 console.log("Variable dd:", dd); // undefined
 
+
+
 export {};
 
 
