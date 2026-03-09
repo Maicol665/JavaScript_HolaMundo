@@ -70,3 +70,4 @@ const actualizarPerfil = (informacionDePerfil) => {
 };
 
 actualizarPerfil(nuevoPerfilCliente);
+
