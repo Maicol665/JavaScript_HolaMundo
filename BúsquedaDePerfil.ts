@@ -16,5 +16,6 @@ function BuscarPerfil(nombre, propiedad)  {
 
 }
 
-console.log(BuscarPerfil("Juanes", "edad",));
+console.log(BuscarPerfil("Juan", "edad",));
 console.log(BuscarPerfil("María", "gustos"));
+

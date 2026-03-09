@@ -130,3 +130,9 @@ let misPlantas = [
 
 let miPrimeraFlor = misPlantas[0].lista[0]; 
 console.log(miPrimeraFlor);
+
+
+const Miconstane = 3.14;
+
+console.log(Miconstane); 
+// Miconstane = 2.71; // Error: No se puede reasignar una constante 

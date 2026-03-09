@@ -31,10 +31,3 @@ for (let i = 1; i <= 3; i++) {
     }
 }
 
-// ciclod do while
-let s = 1;
-
-do {
-    console.log(s);
-    s++;
-} while (s <= 5);
